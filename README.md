@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yingji Zhang
+- 👋 Hi, I’m Yingji Zhang, a third-year PhD student at the University of Manchester.
 - 👀 I’m interested in Natural Language Processing, controllable natural language generation, and disentangled representation learning.
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... -->
